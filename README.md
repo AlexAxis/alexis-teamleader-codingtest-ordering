@@ -3,11 +3,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Content of the application
 
 Example of a Single Page Application (SPA) using React
-hooks -> handle of state and lifecycles of the components
-recoil -> state manager
-react-router-dom -> routing between pages
-material-ui -> component library
-react-table-6 -> table component
+- hooks -> handle of state and lifecycles of the components
+- recoil -> state manager
+- react-router-dom -> routing between pages
+- material-ui -> component library
+- react-table-6 -> table component
 
 ### Features
 
